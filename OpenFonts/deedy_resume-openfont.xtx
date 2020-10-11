@@ -203,28 +203,23 @@
     Organization that strives to increase the number of culturally responsible Black Engineers who excel academically, succeed professionally and positively impact the community.
 \sectionsep
 
-\subsection{dev/color}
-\location{October 2020 – Present | Milwaukee, WI}
-Organization that empowers Black software engineers to help one another grow into industry leaders.
-\sectionsep
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     COURSES
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-% \section{Courses} 
-% \begin{tightemize}
-%      \begin{multicols}{2}
-%          \item Data Structures \& Algorithms
-%          \item System Programming
-%          \item Web Design 
-%          \item Information Security
-%          \item Database Information Retrieval Systems
-%          \item Native Mobile App Development
-%          \item Assembly Language
-%      \end{multicols}
-% \end{tightemize}
-% \sectionsep
+\section{Courses} 
+\begin{itemize}
+    \begin{multicols}{2}
+         \item Data Structures \& Algorithms
+         \item System Programming
+         \item Web Design 
+         \item Information Security
+         \item Database Information Retrieval Systems
+         \item Native Mobile App Development
+         \item Assembly Language
+    \end{multicols}
+\end{itemize}
+\sectionsep
 
 
 \end{minipage} 
