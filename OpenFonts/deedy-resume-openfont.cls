@@ -57,7 +57,7 @@ Last Updated on \today
 \usepackage{titlesec}
 \titlespacing{\section}{0pt}{0pt}{0pt} 
 \titlespacing{\subsection}{0pt}{0pt}{0pt}
-\newcommand{\sectionsep}{\vspace{12pt}}
+\newcommand{\sectionsep}{\vspace{11pt}}
 
 % Headings command
 \titleformat{\section}{\color{headings}
