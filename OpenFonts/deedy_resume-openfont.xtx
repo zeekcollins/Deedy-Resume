@@ -146,10 +146,10 @@
 \subsection{Class A Commercial Driver}
 \descript{Milwaukee County, WI } 
 \location{2016 - Present}
-    \begin{itemize}
-        \item Leveraged strengths in time management and communication skills to consistently complete time-sensitive deliverables. 
-        \item Successfully worked as a team member to maintain upkeep with all units operated and helped companies meet their logistics needs.
-    \end{itemize}
+\begin{itemize}
+    \item Leveraged strengths in time management and communication skills to consistently complete time-sensitive deliverables. 
+    \item Successfully worked as a team member to maintain upkeep with all units operated and helped companies meet their logistics needs.
+\end{itemize}
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -198,29 +198,36 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Organizations}
-\subsection{National Society of Black Engineers}
-\location{June 2019 – Present | Milwaukee, WI}
+\subsection{National Society of}
+\subsection{Black Engineers}
+\location{October 2020 – Present | Milwaukee, WI}
     Organization that strives to increase the number of culturally responsible Black Engineers who excel academically, succeed professionally and positively impact the community.
 \sectionsep
+
+\subsection{Blacks In Technology}
+\subsection{Foundation}
+\location{October 2020 – Present | Milwaukee, WI}
+    A tech focused community and media organization that is dedicated to increasing the representation and participation of Black people in the technology industry
+\sectionsep
+
+\end{minipage} 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     COURSES
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Courses} 
-\begin{itemize}
-    \begin{multicols}{2}
-         \item Data Structures \& Algorithms
-         \item System Programming
-         \item Web Design 
-         \item Information Security
-         \item Database Information Retrieval Systems
-         \item Native Mobile App Development
-         \item Assembly Language
+\begin{tightemize}
+    \begin{multicols}{3}
+        \item Data Structures \& Algorithms
+        \item System Programming
+        \item Web Design 
+        \item Information Security
+        \item Database Information Retrieval
+        \item Native Mobile App Development
+        \item Assembly Language
+        \item Systems Analysis
     \end{multicols}
-\end{itemize}
-\sectionsep
+\end{tightemize}
 
-
-\end{minipage} 
 \end{document}  \documentclass[]{article}
