@@ -78,18 +78,18 @@
 \subsection{University of Wisconsin-Milwaukee}
 \descript{Bachelor of Science}
 \descript{Major: Information Science \& Technology}
-\location{Expected Graduation: December 2021 | Milwaukee, WI}
+\location{Expected Graduation: May 2021 | Milwaukee, WI}
 \sectionsep
 
 \subsection{University of Wisconsin-Milwaukee}
 \descript{Bachelor of Arts}
 \descript{Major: Computer Science}
-\location{Expected Graduation: December 2021 | Milwaukee, WI}
+\location{Expected Graduation: May 2021 | Milwaukee, WI}
 \sectionsep
 
 
 \begin{tightemize}
-    \item Major GPA: 3.5
+    \item IT GPA: 3.5
     \item Dean's List: Fall 2019 | Spring 2020
     \item Concurrent Full-Time Employment with Full-Time College Studies
 \end{tightemize}
@@ -109,8 +109,8 @@
         \item Python
         \item HTML 
         \item CSS
-        \item MySQL 
-        \item MS SQL Server
+        \item SQL 
+        \item PHP
         \item Eclipse 
         \item Visual Studio Code
     \end{multicols}
@@ -120,9 +120,9 @@
 \location{Familiar with:}
 \begin{tightemize}
     \begin{multicols}{2}
-        \item Android (Android Studio)
-        \item iOS (Xcode)
+        \item Android 
         \item Linux
+        \item Git
     \end{multicols}
 \end{tightemize}
 \sectionsep
@@ -167,31 +167,33 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Technical Projects}
-\subsection{Pathfinding Visualizer }
-\descript{Website, GitHub }
-\location{Fall 2020 | Milwaukee, WI}
+\subsection{Minesweeper }
+\descript{Executable, GitHub }
+\location{Spring 2018 | Milwaukee, WI}
 \begin{itemize}
-    \item Built a VanillaJS application for visualizing pathfinding algorithms 
-    \item Implemented 9 different algorithms including Dijkstra's Algorithm
+    \item Built a Java application edition of Microsoft's Minesweeper 
+    \item Implemented Java's Frame class to create a JAR executable to run on any system
 \end{itemize}
 \sectionsep
 
-\subsection{I Love You Everyday }
-\descript{Mobile Application, GitHub }
-\location{Fall 2020 | Milwaukee, WI}
-    \begin{itemize}
-        \item Built a mobile Android application using Android Studio and put it on my wife's phone to notify her everyday that I love her 
-        \item Implemented push notifications to trigger at the same time each day
-    \end{itemize}
+\subsection{MS SQL Server Database}
+\descript{RDBMS, Classroom Project}
+\location{Spring 2019 | Milwaukee, WI}
+\begin{itemize}
+    \item Created a fully functioning database in MS SQL Server to keep track of NBA players, their teams, conferences, stats, awards, and championships 
+    \item Completed an ERD, DDL Scripts, Business Specification forms, and a project charter to complement the NBA database 
+\end{itemize}
 \sectionsep
 
-\subsection{GPA Calculator }
-\descript{Mobile Application, GitHub }
-\location{Fall 2020 | Milwaukee, WI}
-    \begin{itemize}
-        \item Built a mobile Android application using Android Studio to help me calculate and pin     point my Semester and cumulative GPA 
-    \end{itemize}
+\subsection{Wedding Guestbook}
+\descript{Website, Classroom Project}
+\location{Spring 2020 | Milwaukee, WI}
+\begin{itemize}
+    \item Used PHP, HTML, \& CSS to create an online wedding guestbook website
+    \item Utilised CRUD functionality for guests and also linked the website to a database to store guests' information
+\end{itemize}
 \sectionsep
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     ORGANIZATIONS
@@ -201,17 +203,17 @@
 \subsection{National Society of}
 \subsection{Black Engineers}
 \location{October 2020 – Present | Milwaukee, WI}
-    Organization that strives to increase the number of culturally responsible Black Engineers who excel academically, succeed professionally and positively impact the community.
 \sectionsep
 
 \subsection{Blacks In Technology}
 \subsection{Foundation}
 \location{October 2020 – Present | Milwaukee, WI}
-    A tech focused community and media organization that is dedicated to increasing the representation and participation of Black people in the technology industry
-\sectionsep
+    \begin{itemize}
+        \item These organizations focus on increasing the representation and participation of Black people who excel academically, succeed professionally, and positively impact the technology industry.
+    \end{itemize}
+
 
 \end{minipage} 
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     COURSES
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -229,5 +231,7 @@
         \item Systems Analysis
     \end{multicols}
 \end{tightemize}
+
+\end{document}  \documentclass[]{article}
 
 \end{document}  \documentclass[]{article}
